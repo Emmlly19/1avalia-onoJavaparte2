@@ -1,0 +1,12 @@
+public class atividade5dodia2do6 {
+
+    public static void main(String[] args) {
+
+        double V;
+        double R = 5.0;
+        double A = 9;
+        V = 3.14159 * R * R * A;
+
+        System.out.println("O volume da lata de óleo é: " + V);
+    }
+}
